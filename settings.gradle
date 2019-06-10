@@ -1,0 +1,2 @@
+include ':app', ':javaLib'
+rootProject.name='Pointer'
